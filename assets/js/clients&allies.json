@@ -2,19 +2,17 @@
     { "id": "eafit", "name": "EAFIT", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" },
     { "id": "primavera", "name": "Primavera II", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/3D-Shape.svg" },
     { "id": "holz", "name": "Holz", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/Holz.svg" },
-  
     { "id": "sofasa", "name": "Renault Sofasa", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/Renault-sofasa.svg" },
     { "id": "multiplo", "name": "Multiplo Colombia", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/multiplo.svg" },
+    { "id": "ME", "name": "Mitsubishi Electric", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/ME-02.svg" },
     { "id": "firefly", "name": "Firefly Creative Group", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/firefly.svg" },
-  
     { "id": "revo-s", "name": "Revo Soccer", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/revo-02.svg" },
     { "id": "eew", "name": "EEW Protec", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/EEW-protec.svg" },
     { "id": "3ds", "name": "3D Shape", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/3D-Shape.svg" },
-  
-    { "id": "mtd", "name": "Metodo", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" },
-    { "id": "efh", "name": "Estudio EFH", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" },
-  
     { "id": "revelom", "name": "Revelom", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/Revo.svg" },
+
+    { "id": "mtd", "name": "Metodo", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" },
+    { "id": "efh", "name": "Estudio EFH", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" }
 
   ]
   
