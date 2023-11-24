@@ -1,4 +1,5 @@
 function displayTechnologies(projectTechnologies) {
+	console.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 	// Fetch technologies from JSON file
 	fetch('https://raw.githubusercontent.com/Charlie7532/CDN/main/technologies.json')
 		.then((response) => response.json())
