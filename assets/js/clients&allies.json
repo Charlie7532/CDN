@@ -11,6 +11,7 @@
     { "id": "3ds", "name": "3D Shape", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/3d_shape_h100.svg" },
     { "id": "main12", "name": "Main 12", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/main12_h100.svg" },
     { "id": "mtd", "name": "Metodo", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/mtd_h100.svg" },
+    { "id": "eocc", "name": "East Orlando Chamber of Commerce", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/eocc_h100.svg" },
     
     { "id": "efh", "name": "Estudio EFH", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" }
   ]
