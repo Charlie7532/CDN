@@ -51,7 +51,7 @@ function generateAnimation(element, speed) {
 }
 
 // Fetch the array of clients from the JSON file
-fetch('https://cdn.juancbotero.com/assets/js/technologies.json')
+fetch('https://cdn.juancbotero.com/assets/js/clients&allies.json')
 	.then((response) => response.json())
 	.then((clients) => {
 		// Call the function to generate the slider HTML
