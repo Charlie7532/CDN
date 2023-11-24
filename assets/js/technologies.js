@@ -1,3 +1,5 @@
+/** @format */
+
 function displayTechnologies(projectTechnologies) {
 	// Fetch technologies from JSON file
 	fetch('https://cdn.juancbotero.com/assets/js/technologies.json')
@@ -14,7 +16,7 @@ function displayTechnologies(projectTechnologies) {
 				const col = document.createElement('div');
 				col.className = 'col-6 col-md-4 mb-4 text-center';
 				col.innerHTML = `
-                    <img src="${tech.image}" alt="${tech.name} Icon" class="technology-icon mx-auto d-block" style="width: 50px; height: 50px;"> 
+                    <img src="${tech.logo}" alt="${tech.name} Icon" class="technology-icon mx-auto d-block" style="width: 50px; height: 50px;"> 
                     <p>${tech.name}</p>
                     `;
 				technologyContainer.appendChild(col);

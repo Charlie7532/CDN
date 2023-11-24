@@ -1,0 +1,29 @@
+[
+    { "id": "react", "name": "React", 
+    "image": "https://clipground.com/images/react-js-clipart-8.png" },
+    { "id": "next-ui", "name": "Next UI", 
+    "image": "https://avatars.githubusercontent.com/u/86160567?s=200&v=4" },
+    { "id": "materialize", "name": "Materialize", "image": "https://th.bing.com/th/id/OIP.63Vcemn1fETWLlmfGrBo2wHaEc?rs=1&pid=ImgDetMain" },
+    
+    { "id": "c++", "name": "C++", "image": "https://th.bing.com/th/id/R.fccab54f52097ba730d7896b7b6701ce?rik=V7TpWhxwq80kGA&riu=http%3a%2f%2fcodeprogramming.org%2fwp-content%2fuploads%2f2022%2f01%2fC-Logo.wine_.png&ehk=3PB4CYrTaKlBw1DXnfB0FsvLXFCPT%2fIA8%2bIAoBTfIc4%3d&risl=&pid=ImgRaw&r=0" },
+    { "id": "python", "name": "Python", "image": "https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" },
+    { "id": "js", "name": "js", "image": "https://th.bing.com/th/id/R.e6d82362f50c26c1b0e6186b99e18e3c?rik=ZkiNhqWudt2EYQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-PTty3CfTGnA%2fTpZOEjTQ_WI%2fAAAAAAAAAeo%2fKeKt_D5X2xo%2fs1600%2fjs.jpg&ehk=uLz7cG48BbXqyb7LS1GN3v3uFyOhkFlskPBBnFx4ryc%3d&risl=&pid=ImgRaw&r=0" },
+    { "id": "node-js", "name": "NodeJS", "image": "https://th.bing.com/th/id/OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ?rs=1&pid=ImgDetMain" },
+    
+    { "id": "my-sql", "name": "mySQL", "image": "https://th.bing.com/th/id/OIP.wsus-_9qxZ6aYYVI8lj5LwHaGB?rs=1&pid=ImgDetMain" },
+    { "id": "postgre-sql", "name": "PostgreSQL", "image": "https://th.bing.com/th/id/OIP.swRS5zBkhbDD1oGbRvprWAHaHo?rs=1&pid=ImgDetMain" },
+    { "id": "cloudflare", "name": "Cloudflare", "image": "https://dwglogo.com/wp-content/uploads/2020/05/Cloudflare_icon_transparent-1024x664.png" },
+
+    { "id": "appscript", "name": "Apps Script", "image": "https://hiviewsolutions.com/wp-content/uploads/2021/07/Apps-Script-min.png" },
+    { "id": "gcp", "name": "GCP", "image": "https://th.bing.com/th/id/R.4ddc1ac9b63743c9b051e3afaf689c1a?rik=F5kTnIscbzB2Eg&pid=ImgRaw&r=0" },
+    { "id": "aws", "name": "AWS", "image": "https://th.bing.com/th/id/R.4ddc1ac9b63743c9b051e3afaf689c1a?rik=F5kTnIscbzB2Eg&pid=ImgRaw&r=0" },    
+    
+    { "id": "arduino", "name": "Arduino", "image": "https://th.bing.com/th/id/R.92e762d51593d908d305c0cd0bce8358?rik=m5g4NbxlqxfsgA&pid=ImgRaw&r=0" },
+    { "id": "esp32", "name": "ESP 32", "image": "https://th.bing.com/th/id/OIP.BhwQKBOky7mksvCIFXHc7wHaHa?rs=1&pid=ImgDetMain" },
+
+    { "id": "inventor", "name": "Autodesk Inventor", "image": "https://th.bing.com/th/id/OIP.z5IpwJhLCMSZmPnx_WLfmwAAAA?rs=1&pid=ImgDetMain" },
+    { "id": "fusion", "name": "Autodesk Fusion 365", "image": "https://logodix.com/logo/1579566.jpg" },
+    { "id": "solid", "name": "Solid Works", "image": "https://th.bing.com/th/id/OIP.MT4quD_GwqU0UWDizgG9aQHaG-?rs=1&pid=ImgDetMain" },
+    { "id": "Creo", "name": "PTC Creo Parametrics", "image": "https://th.bing.com/th/id/OIP.mKotVaLmZdLW9YcdAZhwrAHaEK?rs=1&pid=ImgDetMain" },
+    { "id": "onshape", "name": "Onshape", "image": "https://yt3.ggpht.com/-3Y3mXsCQJxE/AAAAAAAAAAI/AAAAAAAAAAA/u69vZMbC2nk/s900-c-k-no/photo.jpg" }
+]
