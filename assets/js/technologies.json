@@ -17,7 +17,6 @@
     { "id": "aws", "name": "AWS", "image": "https://th.bing.com/th/id/R.4ddc1ac9b63743c9b051e3afaf689c1a?rik=F5kTnIscbzB2Eg&pid=ImgRaw&r=0" },    
     
     { "id": "arduino", "name": "Arduino", "image": "https://th.bing.com/th/id/R.92e762d51593d908d305c0cd0bce8358?rik=m5g4NbxlqxfsgA&pid=ImgRaw&r=0" },
-    { "id": "esp32", "name": "ESP 32", "image": "https://th.bing.com/th/id/OIP.BhwQKBOky7mksvCIFXHc7wHaHa?rs=1&pid=ImgDetMain" },
+    { "id": "esp32", "name": "ESP 32", "image": "https://th.bing.com/th/id/OIP.BhwQKBOky7mksvCIFXHc7wHaHa?rs=1&pid=ImgDetMain" }
     
-
-  ]
+]
