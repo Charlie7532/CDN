@@ -12,6 +12,8 @@
     { "id": "main12", "name": "Main 12", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/main12_h100.svg" },
     { "id": "mtd", "name": "Metodo", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/mtd_h100.svg" },
     { "id": "eocc", "name": "East Orlando Chamber of Commerce", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/eocc_h100.svg" },
+    { "id": "hcc", "name": "Hispanic Chamber of Commerce", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/hcc_h100.svg" },
+    { "id": "epm", "name": "EPM", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/epm_h100.svg" },
     
     { "id": "efh", "name": "Estudio EFH", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" }
   ]
