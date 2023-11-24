@@ -1,6 +1,6 @@
 function displayTechnologies(projectTechnologies) {
 	// Fetch technologies from JSON file
-	fetch('https://raw.githubusercontent.com/Charlie7532/CDN/main/technologies.json')
+	fetch('https://cdn.juancbotero.com/assets/js/technologies.json')
 		.then((response) => response.json())
 		.then((technologies) => {
 			// Filter technologies based on projectTechnologies
