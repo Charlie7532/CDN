@@ -1,6 +1,8 @@
 [
-    { "id": "react", "name": "React", "image": "https://clipground.com/images/react-js-clipart-8.png" },
-    { "id": "next-ui", "name": "Next UI", "image": "https://avatars.githubusercontent.com/u/86160567?s=200&v=4" },
+    { "id": "react", "name": "React", 
+    "image": "https://clipground.com/images/react-js-clipart-8.png" },
+    { "id": "next-ui", "name": "Next UI", 
+    "image": "https://avatars.githubusercontent.com/u/86160567?s=200&v=4" },
     { "id": "materialize", "name": "Materialize", "image": "https://th.bing.com/th/id/OIP.63Vcemn1fETWLlmfGrBo2wHaEc?rs=1&pid=ImgDetMain" },
     
     { "id": "c++", "name": "C++", "image": "https://th.bing.com/th/id/R.fccab54f52097ba730d7896b7b6701ce?rik=V7TpWhxwq80kGA&riu=http%3a%2f%2fcodeprogramming.org%2fwp-content%2fuploads%2f2022%2f01%2fC-Logo.wine_.png&ehk=3PB4CYrTaKlBw1DXnfB0FsvLXFCPT%2fIA8%2bIAoBTfIc4%3d&risl=&pid=ImgRaw&r=0" },
@@ -17,6 +19,13 @@
     { "id": "aws", "name": "AWS", "image": "https://th.bing.com/th/id/R.4ddc1ac9b63743c9b051e3afaf689c1a?rik=F5kTnIscbzB2Eg&pid=ImgRaw&r=0" },    
     
     { "id": "arduino", "name": "Arduino", "image": "https://th.bing.com/th/id/R.92e762d51593d908d305c0cd0bce8358?rik=m5g4NbxlqxfsgA&pid=ImgRaw&r=0" },
-    { "id": "esp32", "name": "ESP 32", "image": "https://th.bing.com/th/id/OIP.BhwQKBOky7mksvCIFXHc7wHaHa?rs=1&pid=ImgDetMain" }
-    
+    { "id": "esp32", "name": "ESP 32", "image": "https://th.bing.com/th/id/OIP.BhwQKBOky7mksvCIFXHc7wHaHa?rs=1&pid=ImgDetMain" },
+
+
+    { "id": "inventor", "name": "Autodesk Inventor", "image": "https://th.bing.com/th/id/OIP.z5IpwJhLCMSZmPnx_WLfmwAAAA?rs=1&pid=ImgDetMain" },
+    { "id": "fusion", "name": "Autodesk Fusion 365", "image": "https://logodix.com/logo/1579566.jpg" },
+    { "id": "solid", "name": "Solid Works", "image": "https://th.bing.com/th/id/OIP.MT4quD_GwqU0UWDizgG9aQHaG-?rs=1&pid=ImgDetMain" },
+    { "id": "Creo", "name": "PTC Creo Parametrics", "image": "https://th.bing.com/th/id/OIP.mKotVaLmZdLW9YcdAZhwrAHaEK?rs=1&pid=ImgDetMain" },
+    { "id": "onshape", "name": "Onshape", "image": "https://yt3.ggpht.com/-3Y3mXsCQJxE/AAAAAAAAAAI/AAAAAAAAAAA/u69vZMbC2nk/s900-c-k-no/photo.jpg" }
+
 ]
