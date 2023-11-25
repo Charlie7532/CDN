@@ -1,27 +1,27 @@
 [
-    { "id": "react", "name": "React", "logo": "https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" },
-    { "id": "next-ui", "name": "Next UI", "logo": "https://avatars.githubusercontent.com/u/86160567?s=200&v=4" },
-    { "id": "materialize", "name": "Materialize", "logo": "https://th.bing.com/th/id/OIP.63Vcemn1fETWLlmfGrBo2wHaEc?rs=1&pid=ImgDetMain" },
+    { "id": "react", "name": "React", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/react_w160.svg" },
+    { "id": "next-ui", "name": "Next UI", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/next_h160.svg" },
+    { "id": "materialize", "name": "Materialize", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/materialize_h160.svg" },
     
-    { "id": "c++", "name": "C++", "logo": "https://th.bing.com/th/id/R.fccab54f52097ba730d7896b7b6701ce?rik=V7TpWhxwq80kGA&riu=http%3a%2f%2fcodeprogramming.org%2fwp-content%2fuploads%2f2022%2f01%2fC-Logo.wine_.png&ehk=3PB4CYrTaKlBw1DXnfB0FsvLXFCPT%2fIA8%2bIAoBTfIc4%3d&risl=&pid=ImgRaw&r=0" },
-    { "id": "python", "name": "Python", "logo": "https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" },
-    { "id": "js", "name": "js", "logo": "https://th.bing.com/th/id/R.e6d82362f50c26c1b0e6186b99e18e3c?rik=ZkiNhqWudt2EYQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-PTty3CfTGnA%2fTpZOEjTQ_WI%2fAAAAAAAAAeo%2fKeKt_D5X2xo%2fs1600%2fjs.jpg&ehk=uLz7cG48BbXqyb7LS1GN3v3uFyOhkFlskPBBnFx4ryc%3d&risl=&pid=ImgRaw&r=0" },
-    { "id": "node-js", "name": "NodeJS", "logo": "https://th.bing.com/th/id/OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ?rs=1&pid=ImgDetMain" },
+    { "id": "c++", "name": "C++", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/c++_h160.svg" },
+    { "id": "python", "name": "Python", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/python_h160.svg" },
+    { "id": "node-js", "name": "NodeJS", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/nodejs_h160.svg" },
+    { "id": "php", "name": "PHP", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/php_h160.svg" },
     
-    { "id": "my-sql", "name": "mySQL", "logo": "https://th.bing.com/th/id/OIP.wsus-_9qxZ6aYYVI8lj5LwHaGB?rs=1&pid=ImgDetMain" },
-    { "id": "postgre-sql", "name": "PostgreSQL", "logo": "https://th.bing.com/th/id/OIP.swRS5zBkhbDD1oGbRvprWAHaHo?rs=1&pid=ImgDetMain" },
-    { "id": "cloudflare", "name": "Cloudflare", "logo": "https://dwglogo.com/wp-content/uploads/2020/05/Cloudflare_icon_transparent-1024x664.png" },
+    { "id": "my-sql", "name": "mySQL", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/myswl_h160.svg" },
+    { "id": "postgre-sql", "name": "PostgreSQL", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/postgres_h160.svg" },
+    { "id": "cloudflare", "name": "Cloudflare", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/cloudflare_h160.svg" },
 
-    { "id": "appscript", "name": "Apps Script", "logo": "https://hiviewsolutions.com/wp-content/uploads/2021/07/Apps-Script-min.png" },
-    { "id": "gcp", "name": "GCP", "logo": "https://th.bing.com/th/id/R.4ddc1ac9b63743c9b051e3afaf689c1a?rik=F5kTnIscbzB2Eg&pid=ImgRaw&r=0" },
-    { "id": "aws", "name": "AWS", "logo": "https://th.bing.com/th/id/R.4ddc1ac9b63743c9b051e3afaf689c1a?rik=F5kTnIscbzB2Eg&pid=ImgRaw&r=0" },    
+    { "id": "appscript", "name": "Apps Script", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/appscript_h160.svg" },
+    { "id": "gcp", "name": "GCP", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/gcp_h160.svg" },
+    { "id": "aws", "name": "AWS", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/aws_h160.svg" },
     
-    { "id": "arduino", "name": "Arduino", "logo": "https://th.bing.com/th/id/R.92e762d51593d908d305c0cd0bce8358?rik=m5g4NbxlqxfsgA&pid=ImgRaw&r=0" },
-    { "id": "esp32", "name": "ESP 32", "logo": "https://th.bing.com/th/id/OIP.BhwQKBOky7mksvCIFXHc7wHaHa?rs=1&pid=ImgDetMain" },
+    { "id": "arduino", "name": "Arduino", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/arduino_h160.svg" },
+    { "id": "esp32", "name": "ESP 32", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/esp_32_h160.svg" },
+    { "id": "rpi", "name": "Raspbery Pi", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/raspberry_pi_h160.svg" },
 
-    { "id": "inventor", "name": "Autodesk Inventor", "logo": "https://th.bing.com/th/id/OIP.z5IpwJhLCMSZmPnx_WLfmwAAAA?rs=1&pid=ImgDetMain" },
-    { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://logodix.com/logo/1579566.jpg" },
-    { "id": "solid", "name": "Solid Works", "logo": "https://th.bing.com/th/id/OIP.MT4quD_GwqU0UWDizgG9aQHaG-?rs=1&pid=ImgDetMain" },
-    { "id": "Creo", "name": "PTC Creo Parametrics", "logo": "https://th.bing.com/th/id/OIP.mKotVaLmZdLW9YcdAZhwrAHaEK?rs=1&pid=ImgDetMain" },
-    { "id": "onshape", "name": "Onshape", "logo": "https://yt3.ggpht.com/-3Y3mXsCQJxE/AAAAAAAAAAI/AAAAAAAAAAA/u69vZMbC2nk/s900-c-k-no/photo.jpg" }
+    { "id": "inventor", "name": "Autodesk Inventor", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inventor_h160.svg" },
+    { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/fusion_h160.svg" },
+    { "id": "solid", "name": "Solid Works", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/solid_h160.svg" },
+    { "id": "Creo", "name": "PTC Creo Parametrics", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/ptc_h160.svg" }
 ]
