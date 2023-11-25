@@ -15,6 +15,7 @@
     { "id": "hcc", "name": "Hispanic Chamber of Commerce", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/hcc_h100.svg" },
     { "id": "epm", "name": "EPM", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/epm_h100.svg" },
     { "id": "cloudflare", "name": "Cloudflare", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/cloudflare_h160.svg" },
+    { "id": "meni", "name": "Meni Coffee", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/meni_h100.png" },
     
     { "id": "efh", "name": "Estudio EFH", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" }
   ]
