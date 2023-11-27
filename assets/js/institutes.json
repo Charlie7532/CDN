@@ -1,8 +1,8 @@
 [
-    { "id": "sanignacio", "name": "San Ignacio", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/primavera_h100.svg" },
-    { "id": "eafit", "name": "EAFIT", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/eafit_h100.svg" },
-    { "id": "udemi", "name": "Udemi", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/holz_h100.svg" },
-    { "id": "mitx", "name": "MIT | xPro", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/sofasa_h100.svg" },
-    { "id": "cursera", "name": "Cursera", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/multiplo_h100.svg" },
-    { "id": "google", "name": "Google", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/multiplo_h100.svg" }
+    { "id": "sanignacio", "name": "San Ignacio", "logo": "https://cdn.juancbotero.com/assets/pictures/institutions/primavera_h100.svg" },
+    { "id": "eafit", "name": "EAFIT", "logo": "https://cdn.juancbotero.com/assets/pictures/institutions/eafit_h100.svg" },
+    { "id": "udemi", "name": "Udemi", "logo": "https://cdn.juancbotero.com/assets/pictures/institutions/holz_h100.svg" },
+    { "id": "mitx", "name": "MIT | xPro", "logo": "https://cdn.juancbotero.com/assets/pictures/institutions/sofasa_h100.svg" },
+    { "id": "cursera", "name": "Cursera", "logo": "https://cdn.juancbotero.com/assets/pictures/institutions/multiplo_h100.svg" },
+    { "id": "google", "name": "Google", "logo": "https://cdn.juancbotero.com/assets/pictures/institutions/multiplo_h100.svg" }
   ]

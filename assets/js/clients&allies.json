@@ -1,10 +1,10 @@
 [
-    { "id": "holz", "name": "Holz", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/holz_h100.svg" , "link":""},
-    { "id": "3ds", "name": "3D Shape", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/3d_shape_h100.svg" , "link":""},
+    { "id": "holz", "name": "Holz", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/holz_h100.svg" , "link":"https://juancbotero.com/"},
+    { "id": "3ds", "name": "3D Shape", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/3d_shape_h100.svg" , "link":"https://juancbotero.com/"},
     { "id": "eafit", "name": "EAFIT", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/eafit_h100.svg", "link":"https://www.eafit.edu.co/" },
-    { "id": "primavera", "name": "Primavera II", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/primavera_h100.svg" , "link":""},
+    { "id": "primavera", "name": "Primavera II", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/primavera_h100.svg" , "link":"https://juancbotero.com/"},
     { "id": "sofasa", "name": "Renault Sofasa", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/sofasa_h100.svg" , "link":"https://www.renault.com.co/renault-en-colombia.html"},
-    { "id": "epm", "name": "EPM", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/epm_h100.svg", "link":"" },
+    { "id": "epm", "name": "EPM", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/epm_h100.svg", "link":"https://juancbotero.com/" },
     { "id": "ME", "name": "Mitsubishi Electric", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/me_h100.svg" , "link":"https://www.mitsubishielectric.com/en/index.html"},
     { "id": "multiplo", "name": "Multiplo Colombia", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/multiplo_h100.svg" , "link":"https://www.linkedin.com/company/multiplo-col/"},
     { "id": "eew", "name": "EEW Protec", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/eew_h100.svg", "link":"https://www.eew-protec.de/" },
@@ -17,6 +17,6 @@
     { "id": "meni", "name": "Meni Coffee", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/meni_h100.svg" , "link":"https://menicoffee.com/"},
     { "id": "cloudflare", "name": "Cloudflare", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/cloudflare_h160.svg" , "link":"https://www.cloudflare.com/"},
     
-    { "id": "efh", "name": "Estudio EFH", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" , "link":""}
+    { "id": "efh", "name": "Estudio EFH", "logo": "https://cdn.juancbotero.com/assets/pictures/clients/cd-logo.png" , "link":"https://juancbotero.com/"}
   ]
   
