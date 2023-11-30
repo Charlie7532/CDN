@@ -1,6 +1,6 @@
  
 [
-    { "id": "fred-api-01", "name": "FRED 01", "api": "d1c3a1aa204d70c206437fea3e8b71db" , "link":"https://api.stlouisfed.org/fred/series/observations?series_id=REAINTRATREARAT10Y&api_key=d1c3a1aa204d70c206437fea3e8b71db"},
-    { "id": "fred-api-i-rate", "name": "FRED interest rate", "api": "d1c3a1aa204d70c206437fea3e8b71db" , "link":"https://api.stlouisfed.org/fred/series/observations?series_id=REAINTRATREARAT10Y&api_key=d1c3a1aa204d70c206437fea3e8b71db"},
+    { "id": "fred-api-01", "name": "FRED 01", "api": "d1c3a1aa204d70c206437fea3e8b71db" , "link":"https://api.stlouisfed.org/fred/series/observations?series_id=REAINTRATREARAT10Y&api_key=d1c3a1aa204d70c206437fea3e8b71db", "help":"https://fred.stlouisfed.org/docs/api/fred/"},
+    { "id": "fred-api-i-rate", "name": "FRED interest rate", "api": "d1c3a1aa204d70c206437fea3e8b71db" , "link":"https://api.stlouisfed.org/fred/series/observations?series_id=REAINTRATREARAT10Y&api_key=d1c3a1aa204d70c206437fea3e8b71db","help":"https://fred.stlouisfed.org/docs/api/fred/"}
 
   ]
