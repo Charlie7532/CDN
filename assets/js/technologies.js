@@ -1,6 +1,6 @@
 /** @format */
 
-function displayTechnologies(projectTechnologies) {
+function displayTechnologies(projectTechnologies,containerID) {
 	// Fetch technologies from JSON file
 	fetch('https://cdn.juancbotero.com/assets/js/technologies.json')
 		.then((response) => response.json())
@@ -9,7 +9,7 @@ function displayTechnologies(projectTechnologies) {
 			const technologies_used = technologies.filter((tech) => projectTechnologies.includes(tech.id));
 
 			// Display technologies in the HTML
-			const technologyContainer = document.getElementById('technology-container');
+			const technologyContainer = document.getElementById(containerID);
 			technologyContainer.innerHTML = ''; // Clear existing content
 
 			technologies_used.forEach((tech) => {

@@ -20,6 +20,7 @@
     { "id": "esp32", "name": "ESP 32", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/esp_32_h160.svg" },
     { "id": "rpi", "name": "Raspbery Pi", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/raspberry_pi_h160.svg" },
     { "id": "pio", "name": "Platform IO", "logo": "https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" },
+    { "id": "vs-code", "name": "Visual Studio Code", "logo": "https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" },
 
     { "id": "inventor", "name": "Autodesk Inventor", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inventor_h160.svg" },
     { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/fusion_h160.svg" },
