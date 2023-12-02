@@ -24,5 +24,11 @@
     { "id": "inventor", "name": "Autodesk Inventor", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inventor_h160.svg" },
     { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/fusion_h160.svg" },
     { "id": "solid", "name": "Solid Works", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/solid_h160.svg" },
-    { "id": "Creo", "name": "PTC Creo Parametrics", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/ptc_h160.svg" }
+    { "id": "Creo", "name": "PTC Creo Parametrics", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/ptc_h160.svg" },
+
+    { "id": "CNC", "name": "CNC", "logo": "https://th.bing.com/th/id/OIP.P_qXvZSbsOi8klROd6capAHaCQ?rs=1&pid=ImgDetMain" },
+    { "id": "laser", "name": "Laser Cut", "logo": "https://www.fabcon.com/wp-content/uploads/2022/11/laser-cutting.png" },
+    { "id": "plasma", "name": "Plasma cut", "logo": "https://www.fabcon.com/wp-content/uploads/2022/11/laser-cutting.png" },
+    { "id": "3dp", "name": "3D Printing", "logo": "https://cdn1.iconfinder.com/data/icons/future-4/64/37_3D_printer_technology_future_science-1024.png" },
+    { "id": "metal-sheet", "name": "Sheet Metal Bending", "logo": "https://media.istockphoto.com/id/1309850720/vector/metal-bending-hydraulic-cnc-press-machine-grey-icon.jpg?s=612x612&w=0&k=20&c=owTqm1Kftixul9O2Ny7pSWRhBrr5_BheDzHWLW7wgzI=" }
 ]
