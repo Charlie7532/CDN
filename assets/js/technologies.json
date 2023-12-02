@@ -35,7 +35,7 @@
     { "id": "photon", "name": "Photon", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inkscape_h160.svg" },
 
     { "id": "CNC", "name": "CNC", "logo": "https://cdn0.iconfinder.com/data/icons/metallurgy-industry-line-set/64/metallurgy-17-512.png" },
-    { "id": "al-frama", "name": "Alum Frame", "logo": "https://th.bing.com/th/id/R.f27ba6b4b42789ac0d2228e3b02dc0a8?rik=T4jsZR9pJ1stBw&pid=ImgRaw&r=0" },
+    { "id": "al-frame", "name": "Alum Frame", "logo": "https://th.bing.com/th/id/R.f27ba6b4b42789ac0d2228e3b02dc0a8?rik=T4jsZR9pJ1stBw&pid=ImgRaw&r=0" },
     { "id": "laser", "name": "Laser Cut", "logo": "https://www.fabcon.com/wp-content/uploads/2022/11/laser-cutting.png" },
     { "id": "plasma", "name": "Plasma cut", "logo": "https://www.fabcon.com/wp-content/uploads/2022/11/laser-cutting.png" },
     { "id": "3dp", "name": "3D Printing", "logo": "https://cdn1.iconfinder.com/data/icons/future-4/64/37_3D_printer_technology_future_science-1024.png" },
