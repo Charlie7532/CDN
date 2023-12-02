@@ -30,7 +30,7 @@
     { "id": "laser", "name": "Laser Cut", "logo": "https://www.fabcon.com/wp-content/uploads/2022/11/laser-cutting.png" },
     { "id": "plasma", "name": "Plasma cut", "logo": "https://www.fabcon.com/wp-content/uploads/2022/11/laser-cutting.png" },
     { "id": "3dp", "name": "3D Printing", "logo": "https://cdn1.iconfinder.com/data/icons/future-4/64/37_3D_printer_technology_future_science-1024.png" },
-    { "id": "metal-sheet", "name": "Sheet Metal Bending", "logo": "https://media.istockphoto.com/id/1309850720/vector/metal-bending-hydraulic-cnc-press-machine-grey-icon.jpg?s=612x612&w=0&k=20&c=owTqm1Kftixul9O2Ny7pSWRhBrr5_BheDzHWLW7wgzI=" }
+    { "id": "metal-sheet", "name": "Sheet Metal Bending", "logo": "https://media.istockphoto.com/id/1309850720/vector/metal-bending-hydraulic-cnc-press-machine-grey-icon.jpg?s=612x612&w=0&k=20&c=owTqm1Kftixul9O2Ny7pSWRhBrr5_BheDzHWLW7wgzI=" },
     { "id": "marlin", "name": "Marlin", "logo": "https://files.cults3d.com/uploaders/14044687/illustration-file/b88197bc-b9bd-43d5-823e-18f467c7ac1c/Marlin_Logo_With_Fish_large.png" }
 
     
