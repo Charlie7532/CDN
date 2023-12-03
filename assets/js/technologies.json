@@ -7,11 +7,14 @@
     { "id": "python", "name": "Python", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/python_h160.svg" },
     { "id": "node-js", "name": "NodeJS", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/nodejs_h160.svg" },
     { "id": "php", "name": "PHP", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/php_h160.svg" },
+
+    { "id": "matlab", "name": "Matlab", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/matlab_h160.svg" },
     
     { "id": "my-sql", "name": "mySQL", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/myswl_h160.svg" },
     { "id": "postgre-sql", "name": "PostgreSQL", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/postgres_h160.svg" },
     { "id": "cloudflare", "name": "Cloudflare", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/cloudflare_h160.svg" },
 
+    { "id": "vs-code", "name": "Visual Studio Code", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/vst_h160.svg" },
     { "id": "appscript", "name": "Apps Script", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/appscript_h160.svg" },
     { "id": "gcp", "name": "GCP", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/gcp_h160.svg" },
     { "id": "aws", "name": "AWS", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/aws_h160.svg" },
@@ -20,8 +23,8 @@
     { "id": "esp32", "name": "ESP 32", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/esp_32_h160.svg" },
     { "id": "rpi", "name": "Raspbery Pi", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/raspberry_pi_h160.svg" },
     { "id": "pio", "name": "Platform IO", "logo": "https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" },
-    { "id": "vs-code", "name": "Visual Studio Code", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/vst_h160.svg" },
-    { "id": "marlin", "name": "Marlin", "logo": "https://files.cults3d.com/uploaders/14044687/illustration-file/b88197bc-b9bd-43d5-823e-18f467c7ac1c/Marlin_Logo_With_Fish_large.png" },
+    { "id": "marlin", "name": "Marlin", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/marlin_w160.svg" },
+    { "id": "pcb", "name": "Custom PCB design", "logo": "https://th.bing.com/th/id/OIP.fWhyBz7da9F_7QCH1cZwFAAAAA?rs=1&pid=ImgDetMain" },
 
     { "id": "inventor", "name": "Autodesk Inventor", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inventor_h160.svg" },
     { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/fusion_h160.svg" },
