@@ -30,6 +30,7 @@
     { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/fusion_h160.svg" },
     { "id": "solid", "name": "Solid Works", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/solid_h160.svg" },
     { "id": "creo", "name": "PTC Creo Parametrics", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/ptc_h160.svg" },
+    { "id": "onshape", "name": "Onshape", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/onshape_h160.svg" },
 
     { "id": "inkscape", "name": "Inkscape", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inkscape_h160.svg" },
     { "id": "figma", "name": "Figma", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/figma_h160.svg" },
