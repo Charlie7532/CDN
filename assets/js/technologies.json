@@ -24,7 +24,7 @@
     { "id": "rpi", "name": "Raspbery Pi", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/raspberry_pi_h160.svg" },
     { "id": "pio", "name": "Platform IO", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/platformio_h160.svg" },
     { "id": "marlin", "name": "Marlin", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/marlin_w160.svg" },
-    { "id": "pcb", "name": "Custom PCB design", "logo": "ttps://cdn.juancbotero.com/assets/pictures/tecnologies/pcb_h160.svg" }, 
+    { "id": "pcb", "name": "Custom PCB design", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/pcb_h160.svg" }, 
 
     { "id": "inventor", "name": "Autodesk Inventor", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inventor_h160.svg" },
     { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/fusion_h160.svg" },
