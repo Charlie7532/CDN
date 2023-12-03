@@ -53,7 +53,7 @@
     { "id": "nodered", "name": "NodeRed", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/node_red_h160.svg" },
 
     { "id": "wifi", "name": "WiFi", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/wifi.svg" },
-    { "id": "bluetooth ", "name": "Bluetooth ", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/bluetooth .svg" },
+    { "id": "bluetooth ", "name": "Bluetooth ", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/bluetooth.svg" },
     { "id": "lora", "name": "Lora", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/lora.svg" },
 
 
