@@ -57,7 +57,5 @@
     { "id": "bluetooth ", "name": "Bluetooth ", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/bluetooth.svg", "category": "Wireless Communication", "tags": ["Bluetooth", "Wireless Technology", "Short-Range Communication"] },
     { "id": "lora", "name": "Lora", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/lora.svg", "category": "Wireless Communication", "tags": ["LoRa", "Long-Range Communication", "IoT Connectivity"] },
 
-
-    
     { "id": "test", "name": "test", "logo": "" }
 ]
