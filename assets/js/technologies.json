@@ -22,9 +22,9 @@
     { "id": "arduino", "name": "Arduino", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/arduino_h160.svg" },
     { "id": "esp32", "name": "ESP 32", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/esp_32_h160.svg" },
     { "id": "rpi", "name": "Raspbery Pi", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/raspberry_pi_h160.svg" },
-    { "id": "pio", "name": "Platform IO", "logo": "https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" },
+    { "id": "pio", "name": "Platform IO", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/platformio_h160.svg" },
     { "id": "marlin", "name": "Marlin", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/marlin_w160.svg" },
-    { "id": "pcb", "name": "Custom PCB design", "logo": "https://th.bing.com/th/id/OIP.fWhyBz7da9F_7QCH1cZwFAAAAA?rs=1&pid=ImgDetMain" },
+    { "id": "pcb", "name": "Custom PCB design", "logo": "ttps://cdn.juancbotero.com/assets/pictures/tecnologies/pcb_h160.svg" }, 
 
     { "id": "inventor", "name": "Autodesk Inventor", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inventor_h160.svg" },
     { "id": "fusion", "name": "Autodesk Fusion 365", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/fusion_h160.svg" },
@@ -32,19 +32,27 @@
     { "id": "Creo", "name": "PTC Creo Parametrics", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/ptc_h160.svg" },
 
     { "id": "inkscape", "name": "Inkscape", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inkscape_h160.svg" },
-    { "id": "figma", "name": "Figma", "logo": "https://th.bing.com/th/id/R.278148a344a16ac0af0f981deb2a31b7?rik=p3RloBOM7dvvvw&pid=ImgRaw&r=0" },
+    { "id": "figma", "name": "Figma", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/figma_h160.svg" },
 
     { "id": "cura", "name": "Cura", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inkscape_h160.svg" },
     { "id": "photon", "name": "Photon", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inkscape_h160.svg" },
     { "id": "chillipeper", "name": "Chillipeper", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/chillipeper_h160.svg" },
 
-    { "id": "CNC", "name": "CNC", "logo": "https://cdn0.iconfinder.com/data/icons/metallurgy-industry-line-set/64/metallurgy-17-512.png" },
+    { "id": "CNC", "name": "CNC", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/cnc.svg" },
     { "id": "al-frame", "name": "Alum Frame", "logo": "https://th.bing.com/th/id/R.f27ba6b4b42789ac0d2228e3b02dc0a8?rik=T4jsZR9pJ1stBw&pid=ImgRaw&r=0" },
-    { "id": "laser", "name": "Laser Cut", "logo": "https://th.bing.com/th/id/R.e2535714e24e30ca9e44b838658ec46e?rik=NDYcFL4eAJiNdA&pid=ImgRaw&r=0" },
+    { "id": "laser", "name": "Laser Cut", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/laser_h160.svg" },
     { "id": "plasma", "name": "Plasma cut", "logo": "https://www.fabcon.com/wp-content/uploads/2022/11/laser-cutting.png" },
     { "id": "3dp", "name": "3D Printing", "logo": "https://cdn1.iconfinder.com/data/icons/future-4/64/37_3D_printer_technology_future_science-1024.png" },
     { "id": "metal-sheet", "name": "Sheet Metal Bending", "logo": "https://media.istockphoto.com/id/1309850720/vector/metal-bending-hydraulic-cnc-press-machine-grey-icon.jpg?s=612x612&w=0&k=20&c=owTqm1Kftixul9O2Ny7pSWRhBrr5_BheDzHWLW7wgzI=" },
     { "id": "composite", "name": "Composite Materials", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/inkscape_h160.svg" },
+
+
+    { "id": "blynk", "name": "Blynk IoT", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/blynk_h160.svg" },
+    { "id": "mqtt", "name": "MQTT", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/mqtt_h60.svg" },
+    { "id": "nodered", "name": "NodeRed", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/node_red_h160.svg" },
+
+
+    
 
     { "id": "test", "name": "test", "logo": "" }
 ]
