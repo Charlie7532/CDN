@@ -1,12 +1,14 @@
 [
-    { "id": "react", "name": "React", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/react_w160.svg" },
-    { "id": "next-ui", "name": "Next UI", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/next_h160.svg" },
-    { "id": "materialize", "name": "Materialize", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/materialize_h160.svg" },
+    { "id": "react", "name": "React", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/react_w160.svg", "category": "Frontend Framework","tags": ["software","JavaScript", "UI", "Web Development"] },
+    { "id": "next-ui", "name": "Next UI", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/next_h160.svg", "category": "Frontend Framework","tags": ["software","JavaScript", "UI", "Web Development"]},
+    { "id": "materialize", "name": "Materialize", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/materialize_h160.svg","category": "Frontend Framework","tags": ["software","JavaScript", "UI", "Web Development"] },
     
-    { "id": "c++", "name": "C++", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/c++_h160.svg" },
-    { "id": "python", "name": "Python", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/python_h160.svg" },
-    { "id": "node-js", "name": "NodeJS", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/nodejs_h160.svg" },
-    { "id": "php", "name": "PHP", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/php_h160.svg" },
+    { "id": "c++", "name": "C++", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/c++_h160.svg","category": "Programming Language","tags": ["software","C++", "Systems Programming", "Game Development"] },
+    { "id": "python", "name": "Python", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/python_h160.svg","category": "Programming Language","tags": ["software","Python", "Data Science", "Web Development"] },
+    { "id": "php", "name": "PHP", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/php_h160.svg","category": "Programming Language","tags": ["software","PHP", "Server-side", "Web Development"] },
+    { "id": "html", "name": "HTML", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/php_h160.svg","category": "Programming Language","tags": ["software","Web Development"] },
+    { "id": "css", "name": "CSS", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/php_h160.svg","category": "Programming Language","tags": ["software","Web Development"] },
+    { "id": "node-js", "name": "NodeJS", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/nodejs_h160.svg","category": "Programming Language", "tags": ["software","JavaScript", "Backend Development"] },
 
     { "id": "matlab", "name": "Matlab", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/matlab_h160.svg" },
     
