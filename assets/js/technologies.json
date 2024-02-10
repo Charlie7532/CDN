@@ -54,7 +54,7 @@
     { "id": "nodered", "name": "NodeRed", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/node_red_h160.svg", "category": "IoT Automation", "tags": ["NodeRed", "Flow-Based Programming", "Automation"] },
 
     { "id": "wifi", "name": "WiFi", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/wifi.svg", "category": "Wireless Communication", "tags": ["WiFi", "Wireless Networking", "Internet Connectivity"] },
-    { "id": "bluetooth ", "name": "Bluetooth ", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/bluetooth.svg", "category": "Wireless Communication", "tags": ["Bluetooth", "Wireless Technology", "Short-Range Communication"] },
+    { "id": "bluetooth", "name": "Bluetooth", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/bluetooth.svg", "category": "Wireless Communication", "tags": ["Bluetooth", "Wireless Technology", "Short-Range Communication"] },
     { "id": "lora", "name": "Lora", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/lora.svg", "category": "Wireless Communication", "tags": ["LoRa", "Long-Range Communication", "IoT Connectivity"] },
 
     { "id": "test", "name": "test", "logo": "" }
