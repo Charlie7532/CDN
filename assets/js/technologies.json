@@ -1,5 +1,6 @@
 [
     { "id": "react", "name": "React", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/react_w160.svg", "category": "Frontend Framework","tags": ["Software", "JavaScript", "UI", "Web Development"] },
+    { "id": "next", "name": "Next JS", "logo": "https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png", "category": "Frontend Framework","tags": ["Software", "JavaScript", "UI", "Web Development"] },
     { "id": "next-ui", "name": "Next UI", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/next_h160.svg", "category": "Frontend Framework","tags": ["Software", "JavaScript", "UI", "Web Development"]},
     { "id": "materialize", "name": "Materialize", "logo": "https://cdn.juancbotero.com/assets/pictures/tecnologies/materialize_h160.svg","category": "Frontend Framework","tags": ["Software","JavaScript", "UI", "Web Development"] },   
    
